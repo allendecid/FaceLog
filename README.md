@@ -76,7 +76,7 @@ logvid: is the folder where the log and the pictures will be saved
 100: is the confidence threshold (to filter unknown faces)
 
 ```
-The results will be places in a folder with a Logfaces.txt indicating the faces that where recognized, the time they where recognized and the confidence. Images will also be taken in the following format: 3.34sec-id1.jpg meaning it was taken on the second 3.34, with th subject id 1.
+The results will be placed in a folder with a Logfaces.txt file indicating the faces that where recognized, the time they where recognized and the confidence. Images will also be taken in the following format: 3.34sec-id1.jpg meaning it was taken on the second 3.34, with th subject id 1.
 
 
 
