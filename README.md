@@ -26,7 +26,7 @@ To run the command you will have to go to the location of the FaceLog folder tha
 For this step it detects faces from a sample video (used for training and to get face templates) using the Haar Cascade provided by OpenCV ("haarcascade_frontalface_default.xml"). After it detects the faces it extracts the image from the video and saves it in a folder. You can set some parameters to select the location of the folder and to set the window (in seconds) from one individual face from another in the video. To create a face database you can run the following commands.
 
 ```
-python FaceLog -c facesample.mp4 #Creates the database from videosample.mp4
+python FaceLog -c facesample.mp4 #Creates the database from facesample.mp4
 
 You can also change the default parameters
 
