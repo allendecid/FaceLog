@@ -1,0 +1,4 @@
+At 3.34 seconds Subject: 1 Confidence:41.5652560928
+At 8.84 seconds Subject: 2 Confidence:12.9752498714
+At 15.56 seconds Subject: 1 Confidence:26.4945899568
+At 20.65 seconds Subject: 3 Confidence:19.8594954638
