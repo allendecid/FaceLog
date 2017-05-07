@@ -30,11 +30,11 @@ python FaceLog -c facesample.mp4 #Creates the database from videosample.mp4
 
 You can also change the default parameters
 
-python FaceLog -c facesample.mp4 3 subjects
+python FaceLog -c facesample.mp4 0 subjects
 
 -c: indicates you are creating a dataset
 videosample.mp4 is the video used for the database
-3 is the window (seconds) from one subject to another
+0 is the window (seconds) from one subject to another
 testsubjects is the folder where the faces will be saved
 
 ```
